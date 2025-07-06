@@ -1,0 +1,55 @@
+body {
+    background-color: #9df0f0;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #3a5877;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    line-height: 2;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #009eb3;
+}
+
+.btn-easter-egg {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: transparent;
+    color: #ff0000b2;
+    border: none;
+    opacity: 0.04;
+}
